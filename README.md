@@ -29,4 +29,4 @@
 
 * 블랙 잭 게임에 대한 베팅 화면
 
-![Play](./Image/PlayScreen.png)
+![Play](./Image/PlayScreen.PNG)
