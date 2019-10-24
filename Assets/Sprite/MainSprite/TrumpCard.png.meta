@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: 2f1516b384a1b1e48b0d8d0218fbe854
+timeCreated: 1534072783
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TrumpCard_0
+    21300002: TrumpCard_1
+    21300004: TrumpCard_2
+    21300006: TrumpCard_3
+    21300008: TrumpCard_4
+    21300010: TrumpCard_5
+    21300012: TrumpCard_6
+    21300014: TrumpCard_7
+    21300016: TrumpCard_8
+    21300018: TrumpCard_9
+    21300020: TrumpCard_10
+    21300022: TrumpCard_11
+    21300024: TrumpCard_12
+    21300026: TrumpCard_13
+    21300028: TrumpCard_26
+    21300030: TrumpCard_39
+    21300032: TrumpCard_14
+    21300034: TrumpCard_15
+    21300036: TrumpCard_16
+    21300038: TrumpCard_17
+    21300040: TrumpCard_18
+    21300042: TrumpCard_19
+    21300044: TrumpCard_20
+    21300046: TrumpCard_21
+    21300048: TrumpCard_22
+    21300050: TrumpCard_23
+    21300052: TrumpCard_24
+    21300054: TrumpCard_25
+    21300056: TrumpCard_27
+    21300058: TrumpCard_28
+    21300060: TrumpCard_29
+    21300062: TrumpCard_30
+    21300064: TrumpCard_31
+    21300066: TrumpCard_32
+    21300068: TrumpCard_33
+    21300070: TrumpCard_34
+    21300072: TrumpCard_35
+    21300074: TrumpCard_36
+    21300076: TrumpCard_37
+    21300078: TrumpCard_38
+    21300080: TrumpCard_40
+    21300082: TrumpCard_41
+    21300084: TrumpCard_42
+    21300086: TrumpCard_43
+    21300088: TrumpCard_44
+    21300090: TrumpCard_45
+    21300092: TrumpCard_46
+    21300094: TrumpCard_47
+    21300096: TrumpCard_48
+    21300098: TrumpCard_49
+    21300100: TrumpCard_50
+    21300102: TrumpCard_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrumpCard_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 295
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_7
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_12
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 296
+        width: 69
+        height: 94
+      alignment: 9
+      pivot: {x: 0.52478087, y: 0.4818099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_24
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 199
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_25
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 198
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_34
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_35
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_36
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_37
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_38
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 100
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_48
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_49
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_50
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrumpCard_51
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

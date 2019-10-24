@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PuzzleActionKnight.unity
+    guid: 57cd787bc5e2e594c96c19c2d68ef69e
+  - enabled: 1
+    path: Assets/MainGameScreen.unity
+    guid: 3a2a5811a2158bf4bbc77a394a5c40c6
+  - enabled: 1
+    path: Assets/BlackJack.unity
+    guid: a9339d3f031b36b4288f7541bb9b6a66
+  - enabled: 1
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/HitBox.unity
+    guid: d2fa3b79ea177cc4abdf6a99db577177
+  - enabled: 1
+    path: Assets/RussianRullet.unity
+    guid: eb6e2207cb371b142b815da20da06d55
+  - enabled: 1
+    path: Assets/Ending.unity
+    guid: 20ff3b457bcf86d42b465f5618b4f493
